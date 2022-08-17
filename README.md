@@ -15,7 +15,7 @@
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
 </div>
-<br>
+
 <div align="center">
 
 ## Connect with me <img  width="60" align="">
