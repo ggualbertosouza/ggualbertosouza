@@ -49,7 +49,6 @@
 <div align="center"style="display: inline_block">
   <img align="center" alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
