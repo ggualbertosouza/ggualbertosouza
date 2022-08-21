@@ -40,6 +40,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
+
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
 <div align="center">
@@ -76,7 +77,6 @@
 <br>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=ggualbertosouza&theme=gotham&hide_border=true&area=true)
-
 
 
 
