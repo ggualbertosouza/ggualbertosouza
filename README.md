@@ -9,7 +9,7 @@ Guilherme = "I'm a curious person who loves discovering new things. Technologies
 code = {
 'code': ['python', 'mysql', 'javascript', 'html', 'css'],
 'frameworks/librarys/db': ['django', 'react', 'numPy', 'pandas', 'postGreeSql', 'mongoDB']
-'tools': ['vscode', 'docker', 'node', 'python3']
+'tools': ['vscode', 'docker', 'node', 'python']
 }
  
  ```
