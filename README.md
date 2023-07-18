@@ -1,7 +1,7 @@
 <div>
  
 # Olá! Eu sou o Guilherme Gualberto Souza 🖐️
-🌐🚀 future full-stack dev
+🌐🚀 future full-stack dev, current Front-end developer.
 </div>
 
 ```python
