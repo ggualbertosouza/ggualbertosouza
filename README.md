@@ -17,8 +17,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["TypeScript, JavaScript, Python"];
-  frameWorks | bibliotecas = ["React, Tailwindcss, BootStrap, alert('Me viro no DJANGO')"];
-  React = [HTML, CSS, Tailwindcss, BootStrap, Styled-components, material-UI,...rest]
+  frameWorks | bibliotecas = ["React, Tailwindcss, BootStrap, alert('Me viro no DJANGO'), ...rest"];
   tools: [vscode, Docker, Node, Linux, Windows]
 }
 
