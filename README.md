@@ -4,7 +4,7 @@
 🌐🚀 future full-stack dev, current Front-end developer.
 </div>
 
-I'm a curious person who loves discovering new things. Technologies give me the necessary
+I'm curious person who loves discovering new things. Technologies give me the necessary
              knowledges to create the infinit.
 ```js
 import Desenvolvedor from "GuiGS";
