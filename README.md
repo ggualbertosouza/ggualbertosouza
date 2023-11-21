@@ -11,14 +11,14 @@ import Desenvolvedor from "GuiGS";
 
 class SobreMim extends Desenvolvedor {
   nome = "Guilherme Gualberto Souza";
-  area = "Front-end";
+  area = "Dev Web";
   local = "Brasil, Minas Gerais";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["TypeScript, JavaScript, Python"];
-  frameWorks | bibliotecas = ["React, NextJs, TailwindCss, alert('Me viro no DJANGO'), ...rest"];
-  tools: [vscode, Docker, Node, Linux, Windows]
+  linguagens = ["TypeScript, JavaScript, C#, Python"];
+  frameWorks | bibliotecas = ["ASPNET, React, NextJs, TailwindCss, alert('Me viro no DJANGO'), ...rest"];
+  tools: [Docker, Linux, Windows]
 }
 
 ```
