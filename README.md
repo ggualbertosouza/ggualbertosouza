@@ -1,7 +1,7 @@
 <div>
  
 # Olá! Eu sou o Guilherme Gualberto Souza 🖐️
-🌐🚀 future full-stack dev, current Front-end developer.
+🌐🚀 Full-stack developer.
 </div>
 
 I'm curious person who loves discovering new things. Technologies give me the necessary
@@ -16,9 +16,10 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["TypeScript, JavaScript, C#, Python"];
-  frameWorks | bibliotecas = ["ASPNET, React, NextJs, TailwindCss, alert('Me viro no DJANGO'), ...rest"];
-  tools: [Docker, Linux, Windows]
+  public languages = [TypeScript, JavaScript, C#]
+  public intermediateToAdvanced = [React, NextJs, ExpressJs, SQL, PostgresSQL, HTML, CSS];
+  public knowledges = [TailwindCss, Sass, Redux, Zustand, SEO, AJAX, Responsividade]
+  private moreOfMe = [Docker, Linux, Windows, SOLID, Clean architecture, MVC]
 }
 
 ```
