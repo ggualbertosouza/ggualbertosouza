@@ -6,25 +6,6 @@
 
 I'm curious person who loves discovering new things. Technologies give me the necessary
              knowledges to create the infinit.
-```js
-import Desenvolvedor from "GuiGS";
-
-class SobreMim extends Desenvolvedor {
-  nome = "Guilherme Gualberto Souza";
-  area = "Dev Web";
-  local = "Brasil, Minas Gerais";
-}
-
-class Skills extends Desenvolvedor {
-  public languages = [TypeScript, JavaScript, C#]
-  public intermediateToAdvanced = [React, NextJs, ExpressJs, SQL, PostgresSQL, HTML, CSS];
-  public knowledges = [TailwindCss, Sass, Redux, Zustand, SEO, AJAX, Responsividade]
-  private moreOfMe = [Docker, Linux, Windows, SOLID, Clean architecture, MVC]
-}
-
-```
-
-![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
 </div>
 
