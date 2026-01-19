@@ -1,7 +1,5 @@
 <div>
- 
 # Olá! Eu sou o Guilherme Gualberto Souza 🖐️
-🌐🚀 Full-stack developer.
 </div>
 
 I'm curious person who loves discovering new things. Technologies give me the necessary
